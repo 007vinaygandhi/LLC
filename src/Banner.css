@@ -1,0 +1,19 @@
+
+img {
+  width: 100%;
+  height: 100vh;
+  
+}
+
+.mens {
+  margin: 15px 10px auto;
+}
+
+@media screen and (max-width: 450px) {
+  img {
+    height: 30vh;
+  }
+  .mens {
+    margin: 15px 10px auto;
+  }
+}
